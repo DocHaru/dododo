@@ -74,14 +74,14 @@ body {
 .combo {
   position: fixed;
   left: 50%;
-  top: 40%;
+  top: 50%;
   transform: translate(-50%, -50%);
   color: #FFA500; /* 橙色 */
-  font-size: 3rem; /* 放大字号 */
+  font-size: 2.5rem; /* 放大字号 */
   font-weight: 900; /* 超粗体 */
   font-family: 'Arial Black', Impact, sans-serif; /* 优先使用粗体字体 */
   text-shadow: 
-    0 0 5px #000,  /* 黑色描边（内层） */
+    0 0 1px #000,  /* 黑色描边（内层） */
     0 0 20px #FFF, /* 加粗白色描边 */
     0 0 20px #FFF; /* 白色外发光（外层） */
   opacity: 0;
