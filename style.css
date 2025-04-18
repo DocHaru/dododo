@@ -111,7 +111,7 @@ body {
 
 .fixed-btn {
   position: fixed;
-  bottom: 130px;
+  bottom: 120px;
   left: 50%;
   transform: translateX(-50%);
   background-color: #fff;
